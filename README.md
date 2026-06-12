@@ -1,6 +1,6 @@
 # 🔐 Security Audit Portfolio
 
-> Independent security researcher specializing in Solana smart contract audits.
+> Independent Security Researcher specializing in Solidity/Rust smart contract audits.
 > This repository contains all public audit findings, organized by severity and protocol.
 
 [![Findings](https://img.shields.io/badge/Total%20Findings-0-blue)](./findings/)
