@@ -4,7 +4,7 @@
 > This repository contains all public audit findings, organized by severity and protocol.
 
 [![Findings](https://img.shields.io/badge/Total%20Findings-0-blue)](./findings/)
-[![Critical](https://img.shields.io/badge/Critical-0-red)]()
+[![Critical/High](https://img.shields.io/badge/Critical/High-0-red)]()
 [![Fixed](https://img.shields.io/badge/Fixed-0-brightgreen)]()
 
 ---
