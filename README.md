@@ -5,6 +5,8 @@
 
 [![Findings](https://img.shields.io/badge/Total%20Findings-0-blue)](./findings/)
 [![Criticals/Highs](https://img.shields.io/badge/Criticals/Highs-0-red)]()
+[![Mediums](https://img.shields.io/badge/Medium-0-yellow)]()
+[![Low](https://img.shields.io/badge/Low-0-yellow)]()
 [![Fixed](https://img.shields.io/badge/Fixed-0-brightgreen)]()
 
 ---
