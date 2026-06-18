@@ -84,7 +84,6 @@ git push origin main
 ---
 
 ## 📬 Contact
-
-- GitHub: [@DeFiBreacher](https://github.com/defibreacher)
+- Medium: [@DeFiBreacher](https://medium.com/@DeFiBreacher)
 - X: [@DeFibreacher](https://x.com/defibreacher)
 - Telegram:[@DeFiBreacher](https://t.me/DefiBreacher)
