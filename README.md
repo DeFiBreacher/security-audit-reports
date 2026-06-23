@@ -94,10 +94,10 @@ git push origin main
 
 | Phase | Tools / Approach |
 |-------|-----------------|
-| Static Analysis | Slither, Semgrep, custom detectors |
+| Static Analysis | Slither & Mythril for solidity, Aderyn for Rust |
 | Fuzzing | Echidna, Foundry invariant tests |
 | Formal Verification | Certora Prover (selective) |
-| Manual Review | Line-by-line Solidity/Rust + economic modeling |
+| Manual Review | Line-by-line Solidity/Rust + CloC |
 | PoC | Foundry fork tests against mainnet state |
 
 ---
