@@ -116,6 +116,6 @@ git push origin main
 
 <div align="center">
 
-*Smart contracts don't lie — but they do surprise you.*
+*Smart contracts don't lie but they do surprise you.*
 
 </div>
